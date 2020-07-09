@@ -1,5 +1,5 @@
-### Hi there 👋
-https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif
+### Hi there 👋😄
+<img src='https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif' />
 <!--
 **vignalbrice/vignalbrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
