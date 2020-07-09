@@ -1,5 +1,7 @@
-### Hi there 👋😄
+<div style="text-align:center;margin:auto;align-items:center">
+  <h1 style="text-align:center">Hi there 👋😄</h1>
 <img src='https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif' />
+ </div>
 <!--
 **vignalbrice/vignalbrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
