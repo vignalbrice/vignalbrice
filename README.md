@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brice Vignal</h1>
 
-<img alt="Banner" src="https://www.mindstask.com/en/wp-content/uploads/2022/03/frontendSmallBanner.jpg">
+<img alt="Banner" src="https://www.mindstask.com/en/wp-content/uploads/2022/03/frontendSmallBanner.jpg" width="250" height="250">
 <h3 align="center">A Front End Developer from France</h3>
 
 
